@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": "1",
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQn2VsETOvKYJ2Ht_g6OwpRnPK3ObX0hLFGeE_nvCaQ&s",
+        "review": "A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice.",
+        "totalPages": 324,
+        "rating": 4.28,
+        "category": "Fiction",
+        "tags": ["Classic", "Historical", "Social Issues"],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": "2",
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpA0GD10WK_DsQn9FxwxSVgdoIeJ9BeBXcRkAGyNapHg&s",
+        "review": "A dystopian novel set in a totalitarian society ruled by Big Brother. A chilling depiction of perpetual war, surveillance, and mind control.",
+        "totalPages": 328,
+        "rating": 4.17,
+        "category": "Dystopian",
+        "tags": ["Dystopian", "Political", "Classic"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": "3",
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://d3525k1ryd2155.cloudfront.net/h/009/976/1042976009.0.l.jpg",
+        "review": "A romantic novel of manners that depicts the British Regency era. A tale of love and misunderstandings.",
+        "totalPages": 279,
+        "rating": 4.26,
+        "category": "Romance",
+        "tags": ["Classic", "Romance", "Literature"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": "4",
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://shribalajibooks.com/wp-content/uploads/2022/04/Computer-Science-10-New-800x1026.jpg",
+        "review": "A critique of the American Dream, showcasing the decadence and excess of the Jazz Age. A tragic story of Jay Gatsby and his unrequited love for Daisy Buchanan.",
+        "totalPages": 180,
+        "rating": 3.92,
+        "category": "Fiction",
+        "tags": ["Classic", "Tragedy", "Historical"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": "5",
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://m.media-amazon.com/images/I/71R3Flvw+kL._AC_UF1000,1000_QL80_.jpg",
+        "review": "A story about teenage rebellion and alienation, narrated by the iconic character Holden Caulfield.",
+        "totalPages": 214,
+        "rating": 3.81,
+        "category": "Fiction",
+        "tags": ["Classic", "Young Adult", "Literature"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": "6",
+        "bookName": "Moby-Dick",
+        "author": "Herman Melville",
+        "image": "https://m.media-amazon.com/images/I/91tKe3hv8yL._SL1500_.jpg",
+        "review": "An epic tale of the obsessive quest of Captain Ahab for revenge on Moby Dick, the white whale.",
+        "totalPages": 635,
+        "rating": 3.49,
+        "category": "Adventure",
+        "tags": ["Classic", "Adventure", "Sea Story"],
+        "publisher": "Harper & Brothers",
+        "yearOfPublishing": 1851
+    }
+]
