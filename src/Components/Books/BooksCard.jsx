@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const BooksCard = ({ book }) => {
   console.log(book);
-  const {bookId, image, category, bookName, publisher, rating } = book;
+  const {bookId, image,  bookName, publisher, rating } = book;
   return (
     <Link to={`/singleBook/${bookId}`}>
       <div className="card  bg-base-100 border">
@@ -21,6 +21,7 @@ const BooksCard = ({ book }) => {
             <div className="flex items-center gap-2">
               {rating} <FaRegStar />
             </div>
+            
           </div>
         </div>
     </div>

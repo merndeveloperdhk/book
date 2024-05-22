@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const Banner = () => {
   const [books, setBooks] = useState([]);
@@ -27,9 +28,9 @@ const Banner = () => {
               Books to freshen up your bookshelf
             </h1>
 
-            <button className="btn bg-[#23BE0A] hover:bg-[#419134] text-white">
+            <Link to='/listedBooks' className="btn bg-[#23BE0A] hover:bg-[#419134] text-white">
               View The List
-            </button>
+            </Link>
           </div>
         </div>
       </div>
